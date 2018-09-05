@@ -4,17 +4,20 @@ This a repo containing all my completed projects for Udacity's ML Nanodegree. If
 
 ## Projects
 1. Titanic Survival Exploration
-	- Used pandas and numpy to explore and pre-process the dataset
+	- Used Pandas and NumPy to explore and pre-process the dataset
 	- Used scikit-learn to create a Decision Tree model and measure it's accuracy in determining survival of a passenger
 	- Achieved 93% accuracy with custom hyperparameters
-
+2. Predicting Boston Housing Prices
+	- Used NumPy and Pandas to investigate important features and descriptive statistics about the dataset
+	- Used scikit-learn to split data using Shuffle Split, train a Decision Tree Regressor, and obtain optimal hyperparameters using Grid Search.
+	- Evaluated and Analyzed model performance using learning and complexity curves
 ## Requirements
 * Python 3
 * Jupyter Notebooks
 * Tensorflow
-* numpy
+* NumPy
 * scikit-learn
-* pandas
+* Pandas
 * matplotlib
 
 ## Resources

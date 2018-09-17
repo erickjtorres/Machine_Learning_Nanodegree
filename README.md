@@ -11,6 +11,11 @@ This a repo containing all my completed projects for Udacity's ML Nanodegree. If
 	- Used NumPy and Pandas to investigate important features and descriptive statistics about the dataset
 	- Used scikit-learn to split data using Shuffle Split, train a Decision Tree Regressor, and obtain optimal hyperparameters using Grid Search.
 	- Evaluated and Analyzed model performance using learning and complexity curves
+3. Finding Donors for Charity ML
+	- Identified when preprocessing was needed and applied it using pandas
+	- Established a benchmark for Logistic Regression
+	- Investigated candidate solutions between Logistic Regression, Bagging Classifier, and KNN algorithms.
+	-Extracted important features and achieved an accuracy score of 84% using Logistic Regression
 ## Requirements
 * Python 3
 * Jupyter Notebooks

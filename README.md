@@ -14,8 +14,8 @@ This a repo containing all my completed projects for Udacity's ML Nanodegree. If
 3. Finding Donors for Charity ML
 	- Identified when preprocessing was needed and applied it using pandas
 	- Established a benchmark for Logistic Regression
-	- Investigated candidate solutions between Logistic Regression, Bagging Classifier, and KNN algorithms.
-	-Extracted important features and achieved an accuracy score of 84% using Logistic Regression
+	- Investigated candidate solutions between Logistic Regression, Bagging Classifier, and KNN algorithm
+	- Extracted important features and achieved an accuracy score of 84% using Logistic Regression
 ## Requirements
 * Python 3
 * Jupyter Notebooks
